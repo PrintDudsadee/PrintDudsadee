@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University of Phayao
 - 💡 Interested in **Software Engineering, Web Development, and Cloud Technologies**
-- 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
+- 🎯 Current Goal: Learning Full-Stack Development 
 - 💬 Ask me about **Java , C , Python , and Web Frameworks**
 
 ---
