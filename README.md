@@ -13,7 +13,7 @@
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Jave]([https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png](https://images.icon-icons.com/2699/PNG/512/java_logo_icon_168609.png))
+![Jave](https://images.icon-icons.com/2699/PNG/512/java_logo_icon_168609.png)
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
