@@ -1,7 +1,7 @@
 # Hi there, I'm Dudsadee Budkrajang 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place"></span>**
+- 🎓 Computer Science Student at University of Phayao
 - 💡 Interested in **Software Engineering, Web Development, and Cloud Technologies**
 - 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
 - 💬 Ask me about **JavaScript, Python, and Web Frameworks**
@@ -13,6 +13,8 @@
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Jave](https://logolook.net/java-logo/)
+
 
 
 #### Frameworks & Libraries
